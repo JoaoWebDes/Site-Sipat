@@ -509,6 +509,9 @@ footer img{
     #footer h3{
         text-align: center;
     }
+    #tds p{
+        font-size: 12px;
+    }
 }
 /* Media Query For Tablet */
 
